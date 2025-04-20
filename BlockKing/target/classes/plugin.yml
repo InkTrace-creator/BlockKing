@@ -1,0 +1,12 @@
+name: BlockKing
+version: '1.0'
+main: InkTrace.cn.blockking.Main
+api-version: '1.8.8'
+authors: [ InkTrace_ ]
+softdepend: [LuckPerms]
+commands:
+  blockking:
+    description: BlockKing游戏命令
+    usage: |
+      /blockking setlobby - 设置等待大厅(管理员)
+      /blockking setmap <名称> - 设置地图名称(管理员)

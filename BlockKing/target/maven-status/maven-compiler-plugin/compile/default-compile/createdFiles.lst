@@ -1,0 +1,12 @@
+InkTrace\cn\blockking\commands\BlockKingCommand.class
+InkTrace\cn\blockking\handler\MapResetHandler.class
+InkTrace\cn\blockking\manager\GameManager.class
+InkTrace\cn\blockking\game\PlayingState.class
+InkTrace\cn\blockking\BungeeCord.class
+InkTrace\cn\blockking\listener\GameListener.class
+InkTrace\cn\blockking\game\EndingState.class
+InkTrace\cn\blockking\game\GameState.class
+InkTrace\cn\blockking\game\WaitingState.class
+InkTrace\cn\blockking\manager\ConfigManager.class
+InkTrace\cn\blockking\game\SpectatorState.class
+InkTrace\cn\blockking\Main.class
